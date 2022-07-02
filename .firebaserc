@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "netflix-firebase-react"
-  }
+    "default": "netflix-firebase-react-project",
+    "production": "netflix-firebase-react-project"
+  },
+  "targets": {}
 }
